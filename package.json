@@ -1,6 +1,10 @@
 {
   "name": "inpicture",
-  "version": "0.0.0",
+  "description": "Angular Picture App",
+  "version": "1.0.0",
+  "engines": {
+    "node": "7.9.0"
+  },
   "license": "MIT",
   "scripts": {
     "ng": "ng",
